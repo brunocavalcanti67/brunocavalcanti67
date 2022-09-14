@@ -40,13 +40,4 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 </span>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/brunocavalcanti67">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocavalcanti67&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocavalcanti67&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
   
